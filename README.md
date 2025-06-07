@@ -1,5 +1,17 @@
 # AI-Based-Recommendation-System
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: VANSH GOUR
+
+*INTERN ID*: CT04DN894
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 The objective of Task 4 is to design and implement an AI-based recommendation system using Java and popular machine learning libraries such as Apache Mahout. This task focuses on developing a software solution that can analyze user preferences and provide intelligent suggestions, such as products, movies, or content, based on previous interactions. Recommendation systems are widely used in platforms like Amazon, Netflix, and YouTube to enhance user experience by delivering personalized content.
 
 A recommendation system works by analyzing historical data and identifying patterns that suggest what a user might be interested in. There are two primary types of recommendation systems: collaborative filtering and content-based filtering. Collaborative filtering is based on user behavior, where recommendations are made based on similarities between users or items. Content-based filtering, on the other hand, uses item features to recommend items similar to what the user liked in the past.
